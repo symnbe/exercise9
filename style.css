@@ -71,7 +71,7 @@ footer {
         display: block;
       }
       .box {
-        width: 425px;
+        width: 90%;
         margin: 0 auto 10px;
       }
       .box:last-child{
